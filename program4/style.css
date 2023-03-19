@@ -1,0 +1,17 @@
+*{
+    background-color: lightgray;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+img{
+    height: 250px;
+    border: 2px solid black;
+}
+p{
+    text-align: justify;
+}
+h2{
+    color: green;
+}
